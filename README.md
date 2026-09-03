@@ -1,5 +1,6 @@
 # Implementation-of-Q-Learning-Control-Algorithm-using-Gymnasium
-
+# Name:Ranjan Kumar G
+# Reg No:212223240138
 ## Aim
 
 To implement the **Q-Learning control algorithm** using the Gymnasium
